@@ -1,4 +1,4 @@
-# Assignment
+# streamlit-policy-assistant
 
 Simple Streamlit app for uploading CSV tables, preprocessing them, and using PandasAI to generate a combined answer table from a natural-language prompt.
 
